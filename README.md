@@ -9,7 +9,7 @@ This file contains the ground truth used in the experiment, as well as the conte
 - Survey Explain Sheet.pdf:
 This is the instruction document provided to participants.
 
-- Test Visualizations (T1–T6):
+- Test Visualizations:
 This folder includes all five types of visualizations used in the user study, across the six experimental tasks.
 
 If you have any questions, please contact: boyu.zhu@u-bordeaux.fr
