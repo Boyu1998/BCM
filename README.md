@@ -1,6 +1,8 @@
 This file is the supplementary materials for the IJCB 2025 conference paper:
 Biometric Confusion Matrix and Inter ZooPlot: Two Novel Visualizations for Biometric Verification Evaluation
 
+The paper is available at: https://u-bordeaux.hal.science/UNIV-BORDEAUX/hal-05265327v1
+
 The files are divided into three parts:
 
 - GroundTruth.xlsx:
