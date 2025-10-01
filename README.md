@@ -6,13 +6,13 @@ The paper is available at: https://u-bordeaux.hal.science/UNIV-BORDEAUX/hal-0526
 
 The materials are divided into three parts:
 
-- GroundTruth.xlsx
+- **GroundTruth.xlsx**:
 Contains the ground truth used in the experiment, as well as the content of the corresponding folders.
 
-- Survey Explain Sheet.pdf
+- **Survey Explain Sheet.pdf**: 
 The instruction document provided to participants.
 
-- Test Visualizations
+- **Test Visualizations**: 
 This folder includes all five types of visualizations used in the user study, across the six experimental tasks.
 
 The code for the visualization methods presented in the paper will be released on this GitHub repository soon.
